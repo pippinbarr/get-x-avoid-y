@@ -1,0 +1,108 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":747,"y":2,"w":156,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":19},
+	"sourceSize": {"w":156,"h":19}
+},
+"avoid_2.png":
+{
+	"frame": {"x":905,"y":2,"w":49,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":19},
+	"sourceSize": {"w":49,"h":19}
+},
+"avoid_3.png":
+{
+	"frame": {"x":516,"y":2,"w":229,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":19},
+	"sourceSize": {"w":229,"h":19}
+},
+"avoid_4.png":
+{
+	"frame": {"x":266,"y":28,"w":253,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":24},
+	"sourceSize": {"w":253,"h":24}
+},
+"avoid_5.png":
+{
+	"frame": {"x":2,"y":2,"w":280,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":24},
+	"sourceSize": {"w":280,"h":24}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":956,"y":2,"w":5,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":18},
+	"sourceSize": {"w":5,"h":18}
+},
+"get_1.png":
+{
+	"frame": {"x":708,"y":23,"w":177,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":19},
+	"sourceSize": {"w":177,"h":19}
+},
+"get_2.png":
+{
+	"frame": {"x":887,"y":23,"w":70,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":19},
+	"sourceSize": {"w":70,"h":19}
+},
+"get_3.png":
+{
+	"frame": {"x":521,"y":23,"w":185,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":19},
+	"sourceSize": {"w":185,"h":19}
+},
+"get_4.png":
+{
+	"frame": {"x":284,"y":2,"w":230,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":24},
+	"sourceSize": {"w":230,"h":24}
+},
+"get_5.png":
+{
+	"frame": {"x":2,"y":28,"w":262,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":24},
+	"sourceSize": {"w":262,"h":24}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":956,"y":2,"w":5,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":18},
+	"sourceSize": {"w":5,"h":18}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "affirmationdefamation.png",
+	"format": "RGBA8888",
+	"size": {"w":963,"h":54},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3c05902062a174092fd8b16ad631059c:a7d459f2ac36d4e64160107b653bc726:0e9f45351c7b35f7ef702761cec548e0$"
+}
+}

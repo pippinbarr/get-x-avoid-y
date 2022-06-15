@@ -1,0 +1,28 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":2,"y":2,"w":835,"h":413},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":835,"h":413},
+	"sourceSize": {"w":835,"h":413}
+},
+"get_1.png":
+{
+	"frame": {"x":839,"y":2,"w":100,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":72},
+	"sourceSize": {"w":100,"h":72}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "russiaukraine.png",
+	"format": "RGBA8888",
+	"size": {"w":941,"h":417},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:12f912ebb0424aba62f4da8b37206fcb:0e8c1cdd5d03b5af19ec7f3dd27e0a70:658edae910b24b86d16499aa700c55e6$"
+}
+}

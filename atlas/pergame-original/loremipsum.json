@@ -1,0 +1,108 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":229,"y":2,"w":221,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":97},
+	"sourceSize": {"w":225,"h":97}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":452,"y":15,"w":42,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":11},
+	"sourceSize": {"w":42,"h":11}
+},
+"avoid_particle_2.png":
+{
+	"frame": {"x":452,"y":28,"w":40,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":13},
+	"sourceSize": {"w":40,"h":13}
+},
+"avoid_particle_3.png":
+{
+	"frame": {"x":452,"y":58,"w":35,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":11},
+	"sourceSize": {"w":35,"h":11}
+},
+"avoid_particle_4.png":
+{
+	"frame": {"x":452,"y":71,"w":16,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":11},
+	"sourceSize": {"w":16,"h":11}
+},
+"avoid_particle_5.png":
+{
+	"frame": {"x":452,"y":43,"w":36,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":13},
+	"sourceSize": {"w":36,"h":13}
+},
+"get_1.png":
+{
+	"frame": {"x":2,"y":2,"w":225,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":97},
+	"sourceSize": {"w":225,"h":97}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":452,"y":15,"w":42,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":11},
+	"sourceSize": {"w":42,"h":11}
+},
+"get_particle_2.png":
+{
+	"frame": {"x":452,"y":28,"w":40,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":13},
+	"sourceSize": {"w":40,"h":13}
+},
+"get_particle_3.png":
+{
+	"frame": {"x":452,"y":2,"w":44,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":11},
+	"sourceSize": {"w":44,"h":11}
+},
+"get_particle_4.png":
+{
+	"frame": {"x":452,"y":71,"w":16,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":11},
+	"sourceSize": {"w":16,"h":11}
+},
+"get_particle_5.png":
+{
+	"frame": {"x":452,"y":43,"w":36,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":13},
+	"sourceSize": {"w":36,"h":13}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "loremipsum.png",
+	"format": "RGBA8888",
+	"size": {"w":498,"h":101},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ab36b2f025bda74da35488f51854d532:f6a57fe13fc43b2e1090bee987757c3f:82239f35bdfbbc12116b0b0d1a14f938$"
+}
+}

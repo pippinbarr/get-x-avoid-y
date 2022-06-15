@@ -1,0 +1,52 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":2,"y":644,"w":112,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":149},
+	"sourceSize": {"w":112,"h":149}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":230,"y":644,"w":65,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":100},
+	"sourceSize": {"w":77,"h":100}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":480,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":640},
+	"sourceSize": {"w":480,"h":640}
+},
+"get_1.png":
+{
+	"frame": {"x":116,"y":644,"w":112,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":121},
+	"sourceSize": {"w":112,"h":121}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":230,"y":644,"w":65,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":100},
+	"sourceSize": {"w":77,"h":100}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "popes.png",
+	"format": "RGBA8888",
+	"size": {"w":484,"h":795},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:50b39398f18e8e259654e6f4646ac9d0:4ee60d542f7dc0881ccfa5540fc9b3b7:911550b9f1bf2e95982d762890e0ee4d$"
+}
+}

@@ -1,0 +1,32 @@
+{
+	"game_1": 
+	{
+		"textColour": "#000",
+		"buttonColour": "#555"
+	},
+	"game_2":
+	{
+		"textColour": "#000",
+		"buttonColour": "#555"
+	},
+	"game_3":
+	{
+		"textColour": "#000",
+		"buttonColour": "#555"
+	},
+	"game_4":
+	{
+		"textColour": "#000",
+		"buttonColour": "#555"
+	},
+	"game_5":
+	{
+		"textColour": "#fff",
+		"buttonColour": "#555"
+	},
+	"game_6":
+	{
+		"textColour": "#fff",
+		"buttonColour": "#fff"
+	},
+}

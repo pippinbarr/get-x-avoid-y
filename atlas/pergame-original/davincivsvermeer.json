@@ -1,0 +1,44 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":2,"y":289,"w":80,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":109},
+	"sourceSize": {"w":80,"h":109}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":2,"y":400,"w":80,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":100},
+	"sourceSize": {"w":80,"h":100}
+},
+"get_1.png":
+{
+	"frame": {"x":2,"y":166,"w":80,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":121},
+	"sourceSize": {"w":80,"h":121}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":2,"y":2,"w":100,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":162},
+	"sourceSize": {"w":100,"h":162}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "davincivsvermeer.png",
+	"format": "RGBA8888",
+	"size": {"w":104,"h":502},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fd00c294db6b0021eeac80983aca55bf:1c39e63a84781a32abf49515968ef2e5:35fc38f452253707f7e4e1a7c01940fe$"
+}
+}

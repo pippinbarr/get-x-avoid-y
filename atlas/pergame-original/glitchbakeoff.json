@@ -1,0 +1,52 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":84,"y":644,"w":96,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":98},
+	"sourceSize": {"w":96,"h":98}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":182,"y":672,"w":25,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":26},
+	"sourceSize": {"w":25,"h":26}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":480,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":640},
+	"sourceSize": {"w":480,"h":640}
+},
+"get_1.png":
+{
+	"frame": {"x":2,"y":644,"w":80,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":123},
+	"sourceSize": {"w":80,"h":123}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":182,"y":644,"w":25,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":26},
+	"sourceSize": {"w":25,"h":26}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "glitchbakeoff.png",
+	"format": "RGBA8888",
+	"size": {"w":484,"h":769},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9fe915dc697ff3460d84feb467f21b91:81568e5b0c4887d4875e3cb2b8c67159:cb2998afabb06091d2015ab47ea576fd$"
+}
+}

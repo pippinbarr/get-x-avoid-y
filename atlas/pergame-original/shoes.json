@@ -1,0 +1,36 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":2,"y":644,"w":137,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":53},
+	"sourceSize": {"w":137,"h":53}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":480,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":640},
+	"sourceSize": {"w":480,"h":640}
+},
+"get_1.png":
+{
+	"frame": {"x":141,"y":644,"w":137,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":49},
+	"sourceSize": {"w":137,"h":49}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "shoes.png",
+	"format": "RGBA8888",
+	"size": {"w":484,"h":699},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f75ace76c6c5eadc632551dce344a6a:8b25ccdab9ff56a7a0e8a5388e78b67f:c7b8aa0fa2770f873607e82c9fbc63f9$"
+}
+}

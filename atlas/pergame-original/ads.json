@@ -1,0 +1,100 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":475,"y":63,"w":118,"h":566},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":566},
+	"sourceSize": {"w":118,"h":566}
+},
+"avoid_2.png":
+{
+	"frame": {"x":714,"y":63,"w":119,"h":599},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":599},
+	"sourceSize": {"w":119,"h":599}
+},
+"avoid_3.png":
+{
+	"frame": {"x":835,"y":63,"w":159,"h":598},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":598},
+	"sourceSize": {"w":159,"h":598}
+},
+"avoid_4.png":
+{
+	"frame": {"x":2,"y":932,"w":727,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":727,"h":89},
+	"sourceSize": {"w":727,"h":89}
+},
+"avoid_5.png":
+{
+	"frame": {"x":2,"y":2,"w":466,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":59},
+	"sourceSize": {"w":466,"h":59}
+},
+"avoid_6.png":
+{
+	"frame": {"x":2,"y":752,"w":726,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":726,"h":88},
+	"sourceSize": {"w":726,"h":88}
+},
+"avoid_7.png":
+{
+	"frame": {"x":2,"y":63,"w":471,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":471,"h":67},
+	"sourceSize": {"w":471,"h":67}
+},
+"avoid_8.png":
+{
+	"frame": {"x":2,"y":664,"w":727,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":727,"h":86},
+	"sourceSize": {"w":727,"h":86}
+},
+"avoid_9.png":
+{
+	"frame": {"x":2,"y":842,"w":727,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":727,"h":88},
+	"sourceSize": {"w":727,"h":88}
+},
+"get_1.png":
+{
+	"frame": {"x":470,"y":2,"w":466,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":59},
+	"sourceSize": {"w":466,"h":59}
+},
+"get_2.png":
+{
+	"frame": {"x":595,"y":63,"w":117,"h":599},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":599},
+	"sourceSize": {"w":117,"h":599}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ads.png",
+	"format": "RGBA8888",
+	"size": {"w":996,"h":1023},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:49072c2703080d474893c18cfe0e17c7:974d4ec0be2deb35d458555e538f310a:d4935d33129c6189ff76bd129120660c$"
+}
+}

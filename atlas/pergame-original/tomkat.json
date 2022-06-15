@@ -1,0 +1,52 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":128,"y":644,"w":127,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":169},
+	"sourceSize": {"w":127,"h":169}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":257,"y":644,"w":133,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":161},
+	"sourceSize": {"w":133,"h":161}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":480,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":640},
+	"sourceSize": {"w":480,"h":640}
+},
+"get_1.png":
+{
+	"frame": {"x":2,"y":644,"w":124,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":175},
+	"sourceSize": {"w":124,"h":175}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":392,"y":644,"w":94,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":129},
+	"sourceSize": {"w":94,"h":129}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "tomkat.png",
+	"format": "RGBA8888",
+	"size": {"w":488,"h":821},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:929fa3bd50c697ef64d342ed5a7205a7:c598ee209808cb9e73692586224c6ad1:bb3ebad64ff3dc9d34ae91132b1ba117$"
+}
+}

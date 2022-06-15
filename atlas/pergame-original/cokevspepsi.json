@@ -1,0 +1,52 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":84,"y":644,"w":80,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":150},
+	"sourceSize": {"w":80,"h":150}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":166,"y":644,"w":10,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":6},
+	"sourceSize": {"w":10,"h":6}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":480,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":640},
+	"sourceSize": {"w":480,"h":640}
+},
+"get_1.png":
+{
+	"frame": {"x":2,"y":644,"w":80,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":150},
+	"sourceSize": {"w":80,"h":150}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":166,"y":644,"w":10,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":6},
+	"sourceSize": {"w":10,"h":6}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "cokevspepsi.png",
+	"format": "RGBA8888",
+	"size": {"w":484,"h":796},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ffee1d9aa7374b67148bb04c525ec22a:53cee5171fb157019d402ec199ba1e36:1b8519f60981a84dd859e748183fac32$"
+}
+}

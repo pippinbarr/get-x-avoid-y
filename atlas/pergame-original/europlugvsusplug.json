@@ -1,0 +1,44 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":84,"y":2,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":2,"y":84,"w":20,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":8},
+	"sourceSize": {"w":20,"h":8}
+},
+"get_1.png":
+{
+	"frame": {"x":2,"y":2,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":2,"y":84,"w":20,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":8},
+	"sourceSize": {"w":20,"h":8}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "europlugvsusplug.png",
+	"format": "RGBA8888",
+	"size": {"w":166,"h":94},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:91f407124fa90bb542ec79a6b155ba8f:4b0a5a83b4ea952cb615cf520d85faf1:9fdec17ac36dd03e976079e8f632512c$"
+}
+}

@@ -1,0 +1,52 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":460,"y":2,"w":150,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":217},
+	"sourceSize": {"w":150,"h":217}
+},
+"avoid_particle_1.png":
+{
+	"frame": {"x":460,"y":389,"w":80,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":72},
+	"sourceSize": {"w":80,"h":72}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":456,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":95,"w":456,"h":454},
+	"sourceSize": {"w":480,"h":640}
+},
+"get_1.png":
+{
+	"frame": {"x":460,"y":221,"w":144,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":144,"h":166},
+	"sourceSize": {"w":150,"h":174}
+},
+"get_particle_1.png":
+{
+	"frame": {"x":542,"y":389,"w":78,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":78,"h":69},
+	"sourceSize": {"w":80,"h":71}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "jesusvsdevil.png",
+	"format": "RGBA8888",
+	"size": {"w":622,"h":463},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a143bfb1e2206cb52be7617630906e66:f49aa580fdbfb9a1f27e045b94073777:7e31cf525a477357b50012ad612151c7$"
+}
+}

@@ -1,0 +1,108 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":146,"y":324,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":34},
+	"sourceSize": {"w":22,"h":34}
+},
+"avoid_2.png":
+{
+	"frame": {"x":64,"y":324,"w":28,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":34},
+	"sourceSize": {"w":28,"h":34}
+},
+"avoid_3.png":
+{
+	"frame": {"x":120,"y":324,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":34},
+	"sourceSize": {"w":24,"h":34}
+},
+"avoid_4.png":
+{
+	"frame": {"x":2,"y":324,"w":30,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":34},
+	"sourceSize": {"w":30,"h":34}
+},
+"avoid_5.png":
+{
+	"frame": {"x":190,"y":324,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"bg_1.png":
+{
+	"frame": {"x":2,"y":2,"w":240,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":320},
+	"sourceSize": {"w":240,"h":320}
+},
+"fg_1.png":
+{
+	"frame": {"x":236,"y":344,"w":4,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":222,"y":85,"w":4,"h":18},
+	"sourceSize": {"w":240,"h":320}
+},
+"fg_2.png":
+{
+	"frame": {"x":236,"y":324,"w":4,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":222,"y":85,"w":4,"h":18},
+	"sourceSize": {"w":240,"h":320}
+},
+"get_1.png":
+{
+	"frame": {"x":212,"y":324,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":26},
+	"sourceSize": {"w":22,"h":26}
+},
+"get_2.png":
+{
+	"frame": {"x":34,"y":324,"w":28,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":34},
+	"sourceSize": {"w":28,"h":34}
+},
+"get_3.png":
+{
+	"frame": {"x":94,"y":324,"w":24,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":34},
+	"sourceSize": {"w":24,"h":34}
+},
+"get_4.png":
+{
+	"frame": {"x":170,"y":324,"w":18,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":34},
+	"sourceSize": {"w":18,"h":34}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "zaga33.png",
+	"format": "RGBA8888",
+	"size": {"w":244,"h":364},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:43eb4030e45f5f9a26ef34e1169c4775:0a6294e2e7aaafde5fb87814c07404c0:7172ffb71d55937e41a560cdf17000a7$"
+}
+}

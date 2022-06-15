@@ -1,0 +1,28 @@
+{"frames": {
+
+"avoid_1.png":
+{
+	"frame": {"x":2,"y":2,"w":23,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":500},
+	"sourceSize": {"w":23,"h":500}
+},
+"get_1.png":
+{
+	"frame": {"x":27,"y":2,"w":500,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":23},
+	"sourceSize": {"w":500,"h":23}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "sticks.png",
+	"format": "RGBA8888",
+	"size": {"w":529,"h":504},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c3a92f049ad9ee5858e237a71d7268c:41128514860711968401e3e4612e55c8:1adc3c2c6ad4a596c7feb3692dc15338$"
+}
+}

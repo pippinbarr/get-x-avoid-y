@@ -1,0 +1,297 @@
+{
+	"data": 
+	[ 
+	{
+		"name": "xy",
+		"atlas": "3",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#ffffff",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "drone",
+		"atlas": "1",
+		"textColour": "#fff",
+		"frames": [1,1,1,1,1,1]
+	},
+	{
+		"name": "cokevspepsi",
+		"atlas": "1",
+		"nopixelperfect": "true",
+		"textColour": "#fff",
+		"frames": [1,0,1,1,1,1]
+	},
+	{
+		"name": "tomkat",
+		"atlas": "3",
+		"textColour": "#000",
+		"frames": [1,0,1,1,1,1]
+	},
+	{
+		"name": "lines",
+		"atlas": "2",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "popes",
+		"atlas": "2",
+		"textColour": "#fff",
+		"frames": [1,0,1,1,1,1]
+	},
+	{
+		"name": "lefthandrighthand",
+		"atlas": "2",
+		"textColour": "#000",
+		"bgColour": "#ff0",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "videogames",
+		"atlas": "3",
+		"textColour": "#f00",
+		"frames": [1,0,1,1,4,4],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "europlugvsusplug",
+		"atlas": "1",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "davincivsvermeer",
+		"atlas": "1",
+		"textColour": "#fff",
+		"bgColour": "#222",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "zaga33",
+		"atlas": "3",
+		"nopixelperfect": "true",
+		"textColour": "#fff",
+		"frames": [1,2,4,5,0,0],
+		"framerates": [0,1,0,0,0,0]
+	},
+	{
+		"name": "shoes",
+		"atlas": "3",
+		"textColour": "#000",
+		"frames": [1,0,1,1,0,0]
+	},
+	{
+		"name": "jesusvsdevil",
+		"atlas": "2",
+		"nopixelperfect": "true",
+		"textColour": "#f00",
+		"frames": [1,0,1,1,1,1]
+	},
+	{
+		"name": "russiaukraine",
+		"atlas": "3",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,0,0]
+	},
+	{
+		"name": "glitchbakeoff",
+		"atlas": "1",
+		"textColour": "#000",
+		"frames": [1,0,1,1,1,1]
+	},
+	{
+		"name": "sticks",
+		"atlas": "3",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,0,0]
+	},
+	{
+		"name": "avoidget",
+		"atlas": "1",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "stroop",
+		"atlas": "3",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,5,5,0,0],
+		"framerates": [0,0,0.5,0.5,0,0]
+	},
+	{
+		"name": "loremipsum",
+		"atlas": "2",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,5,5],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "helveticaarial",
+		"atlas": "2",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,0,0]
+	},
+	{
+		"name": "hunting",
+		"atlas": "2",
+		"textColour" :"#000",
+		"frames": [1,0,1,1,1,1]
+	},
+	{
+		"name": "leftfacerightface",
+		"atlas": "2",
+		"textColour": "#000",
+		"bgColour": "#99ffcc",
+		"frames": [0,0,1,1,8,8],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "grids",
+		"atlas": "2",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,1,1,1,1]
+	},
+	{
+		"name": "colours",
+		"atlas": "1",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,4,3,4,3],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "strobe",
+		"atlas": "3",
+		"textColour": "#fff",
+		"frames": [2,0,2,2,2,2],
+		"framerates": [1,0,1.2,1.5,1.8,2]
+	},
+	{
+		"name": "luxuriasuperbia",
+		"atlas": "2",
+		"textColour": "#000",
+		"frames": [7,0,8,8,8,8],
+		"framerates": [5,0,0,0,0,0]
+	},
+	{
+		"name": "iphone",
+		"atlas": "2",
+		"textColour": "#000",
+		"frames": [1,0,6,6,0,0],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "lim",
+		"atlas": "2",
+		"textColour": "#fff",
+		"frames": [2,0,5,2,0,0],
+		"framerates": [30,0,10,0,0,0]
+	},
+	{
+		"name": "matisse",
+		"atlas": "2",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,7,7,6,6],
+		"framerates": [0,0,0.00001,0,0,0]
+	},
+	{
+		"name": "mondrian",
+		"atlas": "2",
+		"textColour": "#f00",
+		"frames": [1,0,9,7,3,1],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "predator",
+		"atlas": "2",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,6,7,10,10],
+		"framerates": [0,0,1,0,0,0]
+	},
+	{
+		"name": "zorba",
+		"atlas": "3",
+		"textColour": "#000",
+		"frames": [1,0,9,9,6,6],
+		"framerates": [0,0,10,10,0,0]
+	},
+	{
+		"name": "sonnets",
+		"atlas": "3",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,4,4,6,4],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "problemattic",
+		"atlas": "3",
+		"textColour": "#fff",
+		"frames": [1,1,1,1,0,0]
+	},
+	{
+		"name": "germanbankersecrets",
+		"atlas": "1",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,2,9,0,0],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "drawings",
+		"atlas": "1",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"frames": [1,0,1,1,0,0]
+	},
+	{
+		"name": "counterstrikesource",
+		"atlas": "1",
+		"textColour": "#000",
+		"frames": [1,0,2,2,3,3],
+		"framerates": [0,0,10,10,0,0]
+	},
+	{
+		"name": "reveals",
+		"atlas": "3",
+		"textColour": "#fff",
+		"bgColour": "#000",
+		"frames": [0,0,1,1,0,0]
+	},
+	{
+		"name": "affirmationdefamation",
+		"atlas": "1",
+		"nopixelperfect": "true",
+		"textColour": "#000",
+		"bgColour": "#fff",
+		"frames": [0,0,5,5,1,1],
+		"framerates": [0,0,0,0,0,0]
+	},
+	{
+		"name": "chess",
+		"atlas": "1",
+		"textColour": "#f00",
+		"frames": [1,0,9,9,0,0],
+		"framerates": [0,0,0,0,0,0]
+	}
+	]
+}
